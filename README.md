@@ -1,2 +1,2 @@
-# webscrapper
-My take on the HyperSkill webscrapper project.
+# webscraper
+My take on the HyperSkill webscraper project.
